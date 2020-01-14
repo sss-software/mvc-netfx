@@ -6,6 +6,6 @@ ASP.NET MVC Website with ServiceStack APIs
 
 > Browse [source code](https://github.com/NetFrameworkTemplates/mvc-netfx), view live demo [mvc.web-templates.io](http://mvc.web-templates.io) and install with [dotnet-new](http://docs.servicestack.net/dotnet-new):
 
-    $ dotnet tool install --global web
+    $ dotnet tool install --global x
 
-    $ web new mvc-netfx ProjectName
+    $ x new mvc-netfx ProjectName
